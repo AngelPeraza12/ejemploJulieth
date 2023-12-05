@@ -1,5 +1,5 @@
 console.log("estoy conectado");
-alert("Aprobado")
+alert("Aprobados")
 if (true) {
     "Es true"
 } else {
